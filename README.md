@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @PauloBernardo90
-- 👀 I’m interested in cybersecurity, artificial intelligence and machine learning 
-- 🌱 I’m currently learning python and DevSecOps
-- 💞️ I’m looking to collaborate on cybersecurity researches
+- 👀 I’m interested in cybersecurity, artificial intelligence and machine learning
 - 📫 How to reach me https://www.linkedin.com/in/paulo-bernardo-dos-santos-melo-4b13a7202/
 
 <!---
